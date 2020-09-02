@@ -1,12 +1,12 @@
 {
   "required": true,
-  "package": "com.example.examplemod.mixin",
+  "package": "tfar.mc5169fix.mixin",
   "compatibilityLevel": "JAVA_8",
-  "refmap": "examplemod.refmap.json",
+  "refmap": "mc5169fix.refmap.json",
   "mixins": [
   ],
   "client":[
-    "ExampleMixin"
+    "SignTileEntityRendererMixin"
   ],
   "injectors": {
     "defaultRequire": 1
